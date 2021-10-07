@@ -1,10 +1,12 @@
 # myapp
 
-A new Flutter project.
+This is a new Flutter project. I created for the sick of learning and mastring dart & Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a randow english word generator that generate a pair o word and favorite them for seeing them later. the accual code is the lib file but you can check other file to run this project in any device. <br>
+
+This project is made with the help of the chanel : [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA) and this is the [video](https://www.youtube.com/watch?v=1gDhl4leEzA)
 
 A few resources to get you started if this is your first Flutter project:
 
