@@ -1,4 +1,4 @@
-# myapp
+# random english word generator :
 
 This is a new Flutter project. I created for the sick of learning and mastring dart & Flutter
 
